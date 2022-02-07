@@ -1,0 +1,8 @@
+                Library Management System 
+                   Returned By: Shreyas
+    Date: 2022-02-07    Time:11:03:42.843040
+
+S.N.		Bookname		Cost
+1		Harry Potter		$2
+					Fine: $10
+					Total: $12.0
