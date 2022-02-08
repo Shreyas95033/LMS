@@ -7,3 +7,13 @@ The project file contains a python script (Main.py, Borrow.py, Return.py, dt.py,
 ![Screenshot (24)](https://user-images.githubusercontent.com/90888322/152730964-5343a6ef-4d34-4cbf-a745-d66ced05e05b.png)
 ![Screenshot (25)](https://user-images.githubusercontent.com/90888322/152730980-6ef2ebc8-001e-432b-ac22-16f95ebcaaf2.png)
 https://user-images.githubusercontent.com/90888322/152731916-53b1e11b-0113-4d01-86ad-9020cebde715.mp4
+Project link : https://github.com/Shreyas95033/LMS
+I have used Azure web apps for deployment of my code with the command "az webapp up" also sharing the sample of deployment of my code uisng following commands : 
+export APPNAME=$(az webapp list --query [0].name --output tsv)
+export APPRG=$(az webapp list --query [0].resourceGroup --output tsv)
+export APPPLAN=$(az appservice plan list --query [0].name --output tsv)
+export APPSKU=$(az appservice plan list --query [0].sku.name --output tsv)
+export APPLOCATION=$(az appservice plan list --query [0].location --output tsv)
+My app name/project name is Library Mnagement System.
+![Screenshot (26)](https://user-images.githubusercontent.com/90888322/152954119-85ff307b-751c-4918-ac16-888969e9c06a.png)
+I have already shared my project link and screenshots along with video proof of my demo project hope you will consider it.
