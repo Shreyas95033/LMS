@@ -9,7 +9,6 @@ The project file contains a python script (Main.py, Borrow.py, Return.py, dt.py,
 Demo video link : https://user-images.githubusercontent.com/90888322/152731916-53b1e11b-0113-4d01-86ad-9020cebde715.mp4
 Project URL : https://github.com/Shreyas95033/LMS
 My app name/project name is Library Management System.
-![Screenshot (26)](https://user-images.githubusercontent.com/90888322/152954119-85ff307b-751c-4918-ac16-888969e9c06a.png)
 I have used Microsoft web apps for deployment of my code in github repository. I have created a resourse of web app and deployed in central us location with python runtime stack
 and created a resource. Then I selected deployment centre and selected github for my deployment of my code. After selecting github I deployed and build my code in my github repository in my "main" branch and run all the tests with success resulting in the succesfull completion of my code testing and running.
 To download my project just go to "actions" and select app build and in the artifacts section you will be able to see "python app" just click it and my project will be downloaded.
