@@ -43,9 +43,14 @@ https://user-images.githubusercontent.com/90888322/153837134-9b0a4030-9e88-4d17-
 
 
 
-Video content : azure service used : 00.00 to 2:11.
-                deployment of code : 2:15 to 6:15.
-                justification of deployed code and project demo : 6:16 to 6:45.
+
+Video content : 
+
+azure service used : 00.00 to 2:11.
+
+deployment of code : 2:15 to 6:15.
+
+justification of deployed code and project demo : 6:16 to 6:45.
 
 
 
