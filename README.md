@@ -53,6 +53,9 @@ deployment of code : 2:15 to 6:15.
 justification of deployed code and project demo : 6:16 to 6:45.
 
 
+This video shows microsoft azure web app service use and deployment of code using github and it justifies the service use through the demo video.
+
+
 
 
 
